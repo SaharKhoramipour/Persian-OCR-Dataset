@@ -1,7 +1,7 @@
 # Persian OCR Dataset – Omni-Font Synthetic Dataset for YOLO
 
  Download the dataset (v1.0):  
-[Click to download](https://github.com/SaharKhoramipour/Persian-OCR-Dataset/releases/tag/v1.0)
+(https://github.com/SaharKhoramipour/Persian-OCR-Dataset/releases/tag/v1.0)
 
  This dataset was developed as part of the following research paper:  
 “Towards Omni-Font OCR for Persian Script using YOLO” 
