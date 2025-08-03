@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# YOLO-specific training outputs
+runs/
+weights/
+results/
+
+# Large model files
+.pt
+.pth
+.onnx
+.h5
+
+# Temporary YAMLs or configs
+.tmp.yaml
+.log
+
+# Dataset artifacts (optional)
+.zip
+.tar.gz
