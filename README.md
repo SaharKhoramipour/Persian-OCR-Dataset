@@ -41,8 +41,8 @@ The paper introduces a scalable method for Persian OCR using object detection, w
 
 Each font directory follows the structure below:
 
+```
 Persian-OCR-Dataset/
-│
 ├── Arial/
 │   ├── AA/
 │   │   ├── images/
@@ -55,8 +55,8 @@ Persian-OCR-Dataset/
 │   │   │   └── test/
 │   │   ├── Label_names.yaml
 │   │   └── Label_names2.yaml
-│   └── Font_Names_and_Numbers.txt
-│   └── Label_names.yaml
+│   ├── Font_Names_and_Numbers.txt
+│   ├── Label_names.yaml
 │   └── List_of_Strings.txt
 ├── BKamran/
 │   ├── AA/
@@ -70,8 +70,8 @@ Persian-OCR-Dataset/
 │   │   │   └── test/
 │   │   ├── Label_names.yaml
 │   │   └── Label_names2.yaml
-│   └── Font_Names_and_Numbers.txt
-│   └── Label_names.yaml
+│   ├── Font_Names_and_Numbers.txt
+│   ├── Label_names.yaml
 │   └── List_of_Strings.txt
 ├── BLotus/
 │   ├── AA/
@@ -85,9 +85,10 @@ Persian-OCR-Dataset/
 │   │   │   └── test/
 │   │   ├── Label_names.yaml
 │   │   └── Label_names2.yaml
-│   └── Font_Names_and_Numbers.txt
-│   └── Label_names.yaml
+│   ├── Font_Names_and_Numbers.txt
+│   ├── Label_names.yaml
 │   └── List_of_Strings.txt.cff
+```
 
 Each `AA/` subfolder corresponds to one group of generated strings from the target font.  
 YAML and TXT files define class names, character mappings, and bounding box details.  
