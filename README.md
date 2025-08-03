@@ -1,18 +1,18 @@
 # Persian OCR Dataset – Omni-Font Synthetic Dataset for YOLO
 
- Download the dataset (v1.0):  
-(https://github.com/SaharKhoramipour/Persian-OCR-Dataset/releases/tag/v1.0)
-
- This dataset was developed as part of the following research paper:  
-“Towards Omni-Font OCR for Persian Script using YOLO” 
-Majlesi Journal of Electrical Engineering (MJEE), 2025  
-DOI: [10.57647/j.mjee.2025.17063](https://doi.org/10.57647/j.mjee.2025.17063)
+This repository contains a high-quality synthetic dataset developed for character-level recognition of Persian script using YOLO object detection models. The dataset is specifically designed to address the challenges of omni-font recognition across formal, informal, and handwritten-style Persian fonts.
 
 ---
 
-##  Overview
+##  Associated Research
 
-This repository contains a high-quality synthetic dataset designed for character-level recognition of Persian script using YOLO object detection models.
+This dataset was created as part of the following peer-reviewed publication:
+
+“Towards Omni-Font Optical Character Recognition (OCR) for Persian Script Using the YOLO Object Detection Model”  
+Majlesi Journal of Electrical Engineering (MJEE), 2025  
+[DOI: 10.57647/j.mjee.2025.17063](https://doi.org/10.57647/j.mjee.2025.17063)
+
+The paper introduces a scalable method for Persian OCR using object detection, with special attention to whitespace characters, font generalization, and character-level recognition in complex scripts.
 
 ---
 
