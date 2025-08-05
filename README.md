@@ -118,7 +118,7 @@ With attribution to: Mojtaba Gandomkar and Sahar Khoramipour
 If you use this dataset in your research, please cite the following paper:
 
 > Gandomkar, M., & Khoramipour, S. (2025).  
-> Towards Omni-Font OCR for Persian Script using YOLO.  
+> Towards Omni-Font Optical Character Recognition (OCR) for Persian script using the YOLO object detection model.  
 > Majlesi Journal of Electrical Engineering.  
 > DOI: 10.57647/j.mjee.2025.17063
 
@@ -128,7 +128,7 @@ If you use this dataset in your research, please cite the following paper:
 
 We welcome contributions such as:
 - Additional fonts (especially handwritten ones)
-- Annotated word-level datasets
+- Annotated word-level and character-level datasets
 - Utility scripts and improvements
 
 Please feel free to open an issue or pull request, or contact us via the email listed in the paper.
