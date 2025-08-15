@@ -33,7 +33,7 @@ The paper introduces a scalable method for Persian OCR using object detection, w
   - B Mehr
   - B Mitra
   - B Nazanin
-  - B Tabassom 
+  - B Tabassom
   (More fonts will be added in future updates.)
 
 - Typographic diversity: Formal, informal, and handwriting-like fonts  
