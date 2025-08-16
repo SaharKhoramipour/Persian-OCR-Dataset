@@ -40,7 +40,7 @@ The paper introduces a scalable method for Persian OCR using object detection, w
   - Dast Nevis
   - web_IranNastaliq
   - Maneli
-  - Sayeh_1
+  - MRT_Sayeh-1
   - Tahoma
 
 - Typographic diversity: Formal, informal, and handwriting-like fonts  
