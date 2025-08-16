@@ -37,8 +37,11 @@ The paper introduces a scalable method for Persian OCR using object detection, w
   - ‌B Traffic
   - B Yekan
   - B Zar
-
-  (More fonts will be added in future updates.)
+  - Dast Nevis
+  - web_IranNastaliq
+  - Maneli
+  - Sayeh_1
+  - Tahoma
 
 - Typographic diversity: Formal, informal, and handwriting-like fonts  
 - Data split: Each font includes train, validation, and test sets  
@@ -104,8 +107,9 @@ Persian-OCR-Dataset/
 ##  Format
 
 - Annotations in YOLO format
-- Compatible with YOLOv5, YOLOv8
+- Compatible with YOLOv5, YOLOv8, YOLOv11
 - Each image includes bounding boxes and class IDs
+- File name of each image corresponds the content (Label number of character string) + font number at the end
 
 ---
 
