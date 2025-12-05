@@ -1,5 +1,4 @@
 ![Downloads](https://img.shields.io/github/downloads/SaharKhoramipour/Persian-OCR-Dataset/total.svg)
-![DOI](https://img.shields.io/badge/DOI-10.1000%2Fxyz123-blue.svg)
 
 # Persian OCR Dataset – Omni-Font Synthetic Dataset for YOLO
 
